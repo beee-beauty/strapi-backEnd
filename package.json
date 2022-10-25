@@ -9,7 +9,7 @@
     "mime-types": "^2.1.27",
     "pg": "^8.8.0",
     "pg-connection-string": "^2.5.0",
-    "strapi-provider-upload-do": "^3.6.6"
+    "strapi-provider-upload-dos": "^4.0.5"
   },
   "name": "bee-beauty",
   "private": true,
