@@ -3,6 +3,8 @@
     "@strapi/plugin-graphql": "^4.0.0",
     "@strapi/plugin-i18n": "4.4.1",
     "@strapi/plugin-users-permissions": "4.4.1",
+    "@strapi/provider-email-sendgrid": "^4.4.5",
+    "@strapi/provider-upload-aws-s3": "^4.4.5",
     "@strapi/strapi": "4.4.1",
     "better-sqlite3": "7.4.6",
     "lodash.set": "^4.3.2",
@@ -10,10 +12,10 @@
     "pg": "^8.8.0",
     "pg-connection-string": "^2.5.0"
   },
-  "name": "bee-beauty",
+  "name": "beee-beauty",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "Bee beauty website",
   "scripts": {
     "dev": "strapi develop",
     "start": "strapi start",
@@ -22,7 +24,7 @@
   },
   "devDependencies": {},
   "author": {
-    "name": "A Strapi developer"
+    "name": "John Dao"
   },
   "strapi": {
     "uuid": "247cdcfc-f8e2-40d7-8d37-137d14cd5c89",
